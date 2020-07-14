@@ -1,0 +1,84 @@
+Country name,City,Station_Code,latitude,longitude,pop_den_30s,pop_den_2.5min
+Antarctica,Princess Elisabeth Station,BE.ELIB,-71.947,23.347,0,0
+Australia,Offshore,IM.H01W3,-34.880901,114.1399,0,0
+Italy,summit Etna (2985 m a.s.l),IV.ECPN,37.74283,14.9885,0,0
+Finland,Kevonsuu,IU.KEV,69.7565,27.0035,0,0
+Australia,Mila,AU.MILA,-37.0547,149.155,0,0
+Namibia,Tsumeb,IU.TSUM,-19.202,17.584,1,1
+Botswana,Khwee,BX.KHWEE,-21.9464,25.446911,3,3
+Algeria,Tamanrasset,G.TAM,22.79149,5.52838,3,3
+United States,Idaho Springs,US.ISCO,39.7997,-105.6134,14,4
+United States,"Socs Landing, Pioneer",N4.143B,32.7032,-91.4036,8,5
+"Azores, São Miguel",Portugal,II.CMLA,37.7637,-25.5243,1,6
+Canada,"Edmonton, Alberta",CN.EDM,53.223,-113.3497,4,6
+St Helena,,II.SHEL,-15.9594,-5.7455,3,14
+Cote d'Ivoire,Near Dimbokoro,GT.DBIC,6.67016,-4.85656,18,18
+Botswana,Lephepe,BX.LPHEP,-23.363029,25.859613,31,20
+Cameroon,Edea,G.EDA,3.778868,10.153427,21,21
+Tanzania,Near Makuyuni,AM.R2E8D,-3.720720721,36.09412443,25,21
+Indonesia,Bandaneira,GE.BNDI,-4.5224,129.9045,22,22
+Canada,"Sudbury, Ontario",CN.SUBO,46.6115,-81.1321,6,22
+Estonia,Vasula,EE.VSU,58.462,26.7347,34,25
+Djibouti,We'a,G.ATD,11.530725,42.846634,26,26
+Indonesia,Tanimbar,GE.SAUI,-7.9826,131.2988,27,27
+Ukraine,Vorsivka,UD.AKBB,50.7012,29.2242,30,30
+Papua New Guinea,Bubu,AM.R40AC,-5.3153,151.0208,31,31
+Chile,Easter Island,C1.VA02,-27.1603,-109.4345,40,40
+Botswana,Lobatse,GT.LBTB,-25.0151,25.596649,30,42
+Indonesia,Lhokseumave,GE.LUWI,-1.0418,122.7717,42,42
+USA,"Hammonton, NJ",N4.P61A,39.6734,-74.7919,88,49
+France,Réunion,PF.CSS,-21.2464,55.68451,56,56
+Zambia,Lusaka,IU.LSZ,-15.2779,28.1882,65,65
+Indonesia,Tolitoli,GE.TOLI2,1.1112,120.7817,73,73
+USA,"Caumsett state park, Long Island",N4.N62A,40.9313,-73.4677,63,74
+Indonesia,Plampang,GE.PLAI,-8.8275,117.7765,74,74
+Indonesia,Manna,GE.MNAI,-4.3605,102.9557,132,132
+Canada,"Whistler, British Columbia",CN.WSLR,50.1266,-122.9212,7,137
+Canada,Victoria (Sidney) British Columbia,CN.PGC,48.6498,-123.4521,148,140
+Montenegro,Podgoriza,MN.PDG,42.4297,19.2608,157,157
+Uganda,Mbarara,II.MBAR,-0.6019,30.7382,197,191
+Ethiopia,Mt Furi,IU.FURI,8.8952,38.6798,213,213
+United States,TX,TX.PCOS,31.4089,-103.5102,947,221
+USA,Anchorage,AK.RC01,61.089,-149.739,36,239
+Denmark,Greenland,AM.R2310,68.7027027,-52.84538162,334,239
+United States,TX,TX.PB08,30.8917,-102.9074,150,341
+French Polynesia,Papeete,AM.RF737,-17.5315,-149.4746,334,346
+Tanzania,Arusha,AM.R74D9,-3.333333333,36.85521207,526,350
+Canada,"Hope, British Columbia",CN.HOPB,49.3872,-121.4206,143,359
+Mongolia,Ulaanbaatar,IU.ULN,47.8651,107.0532,359,359
+Indonesia,Gunungsitoli,GE.GSI,1.3039,97.5755,435,435
+Indonesia,Yogajarkta,GE.UGM,-7.913,110.523,458,458
+Indonesia,Yogajarkta,GE.UGM,-7.913,110.523,458,458
+Indonesia,Yogyakarta,GE.UGM,-7.9125,110.5231,458,458
+United States of America,"Hilo, Hawaï",AM.R5ECB,19.72072072,-155.0690721,9,482
+Namibia,Windhoek,AF.WIN,-22.5667,17.1,1250,700
+South Africa,Rustenburg,AM.R9F18,-25.6937,27.2549,3189,732
+Turkey,Gaziantep,AM.R9AC7.00.EHZ,37.045,37.294,1526,880
+Indonesia,Garut,GE.BBJI,-7.4626,107.65,909,909
+Malaysia,Kota Kinabalu,AM.R7184,5.955,116.0871,1797,992
+Russia,Pulkovo,GE.PUL..BHZ,59.767,30.317,1153,1010
+Moldova,Codru,MD.KIS,46.9975,28.8175,1214,1037
+Tanzania,Moshi,AM.R0AC9,-3.324324324,37.32427805,1726,1125
+United States,Oklahoma,AM.R2A2B,35.4654,-97.5017,11,1234
+Jamaica,Kingston,JM.STHB,18.07737,-76.809387,1341,1341
+United States,Plano,TX.FW05,32.9887,-96.7471,494,1384
+United States of America,"Brighton, Boston",AM.R57EC,42.33333333,-71.1612003,1017,1422
+Australia,"Gold Coast, QLD",AU.GC2F,-27.9122,153.3958,740,1439
+United States,St. Louis,NM.SLM,38.6361,-90.2364,5666,1553
+South Korea,Cheonan,AM.S4458,36.7928,127.116,2028,1622
+Canada,"Victoria, British Columbia",CN.VGZ,48.4131,-123.3251,3163,1797
+United States,"Salt Lake City, Utah",AM.R350D,40.7748,-111.8412,145,1888
+Canada,"Calgary, Alberta",AM.R2B98,51.1171,-114.2146,2758,1891
+Tanzania,Moshi,AM.R0AC9,-3.349,37.316,1134,1973
+Australia,Melbourne,AU.MLBS,-37.8291,144.894,227,2079
+Australia,Brisbane,AU.BN1H,-27.4306,153.024,2954,2445
+United States,"Salt Lake City, Utah",AM.R3DC0,40.7477,-111.8559,3014,2815
+UK,Keswick,GB.KESW,48.7719,9.195,2832,2832
+Morocco,Rabat,MN.RTC,33.9881,-6.8569,2494,3078
+Burundi,Bujumbura,KV.BUJA,-3.396068,29.395946,1989,3662
+Australia,Sydney,AU.SYDS,-33.9297,151.2243,1072,3797
+Mexico,Chihuahua,AM.R903B,28.6486,-106.1127,4648,4192
+Indonesia,Semarang City,GE.SMRI,-7.04915,110.44067,4947,4855
+Japan,Nagoya,AM.R0BEF,35.1982,136.8792,7261,7235
+Turkey,Istanbul,AM.RF9F7.00.EHZ,41.072,29.016,6944,7281
+Japan,Tokyo,AM.REC8D,35.7117,139.6391,18132,18602

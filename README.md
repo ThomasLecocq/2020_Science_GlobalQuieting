@@ -7,4 +7,6 @@ Companion repository for reproducing the figures of Lecocq et al, 2020 Science R
 
 This contains the code to reproduce the Figures of the article (please cite if you use it):
 
-*Lecocq, T., et al, under revision at Science.*
+*Lecocq, T., et al (2020)*. **Global quieting of high-frequency seismic noise due to COVID-19 pandemic lockdown measures**. Science. DOI: 10.1126/science.abd2438.
+
+Run it interactively on [mybinder.org](https://mybinder.org/v2/gh/ThomasLecocq/2020_Science_GlobalQuieting/master)

@@ -8,3 +8,5 @@ Companion repository for reproducing the figures of Lecocq et al, 2020 Science R
 This contains the code to reproduce the Figures of the article (please cite if you use it):
 
 *Lecocq, T., et al, under revision at Science.*
+
+Run it interactively on [mybinder.org](https://mybinder.org/v2/gh/ThomasLecocq/2020_Science_GlobalQuieting/master)
